@@ -1,11 +1,9 @@
-public class TestDevOpsCenter {
-    
+public class TestDevOpsCenter2 {
     public static void test(){
-        System.debug('Hello');
-    }
+            System.debug('Hello');
+        }
     
     public static void test2(){
         System.debug('Hello2');
     }
-
 }

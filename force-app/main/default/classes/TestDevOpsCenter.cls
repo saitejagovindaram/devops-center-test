@@ -4,7 +4,7 @@ public class TestDevOpsCenter {
         System.debug('Hello');
     }
     
-    public static void test2(){
+    public static void deprecatedOldFunctionality(){
         System.debug('Hello2');
     }
 

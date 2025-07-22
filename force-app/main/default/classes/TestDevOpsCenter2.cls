@@ -6,4 +6,8 @@ public class TestDevOpsCenter2 {
     public static void test2(){
         System.debug('Hello2');
     }
+    
+    public static void newFucntionalityAdded(){
+        System.debug('Hello2');
+    }
 }
